@@ -28,3 +28,18 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ 프로젝트 설정 파일
+.idea/
+*.iml
+out/
+gen/
+
+# 빌드 결과물 및 컴파일된 클래스 파일
+target/
+*.class
+
+# 로그 및 OS 관련 파일
+*.log
+.DS_Store (Mac용)
+Thumbs.db (Windows용)
